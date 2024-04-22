@@ -1,0 +1,44 @@
+{
+    "name": "nasya - cihuyy",
+    "age": 17,
+    "hobby": [
+        "Coding",
+        "Main game",
+        "Membaca"
+    ],
+    "github":  {
+        "username": "@nasyacihuy",
+        "repositories": 2897,
+        "isGDE": true
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "title": "God of War",
+            "subtitle": "that is movie"
+        },
+        {
+            "id": 2,
+            "title": "Harvest Moon",
+            "subtitle": "that is game"
+        },
+        {
+            "id": 3,
+            "title": "Batman",
+            "subtitle": "that is hero"
+        }
+
+    ],
+    "contacts": {
+        "1": {
+            "name": "putri",
+            "contact": "1234456"
+        },
+         "2": {
+            "name": "nadiya",
+            "contact": "9876456"
+        }
+    }
+
+}
